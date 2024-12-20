@@ -1,0 +1,11 @@
+{
+    "name": "Nobita",
+    "contributions": {
+        "asset-db": {
+            "mount": {
+                "path": "./",
+                "readonly": true
+            }
+        }
+    }
+}
